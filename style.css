@@ -1,0 +1,109 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 30px;
+}
+
+h2 {
+    color: #2C3E50;
+}
+
+form {
+    margin-bottom: 20px;
+}
+
+input, select {
+    padding: 8px;
+    margin: 5px 0;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+}
+
+button {
+    padding: 8px 15px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    background-color: #3498DB;
+    color: white;
+}
+
+button:hover {
+    background-color: #2980B9;
+}
+
+table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-top: 20px;
+}
+
+th, td {
+    padding: 10px;
+    border: 1px solid #ddd;
+    text-align: center;
+}
+
+th {
+    background-color: #f4f4f4;
+}
+
+.delete-btn {
+    background-color: #E74C3C;
+    color: white;
+    padding: 5px 10px;
+    text-decoration: none;
+    border-radius: 5px;
+}
+
+.delete-btn:hover {
+    background-color: #C0392B;
+}
+
+body {
+    font-family: Arial, sans-serif;
+    margin: 30px;
+}
+
+h2 {
+    color: #2C3E50;
+}
+
+table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-top: 20px;
+}
+
+th, td {
+    padding: 10px;
+    border: 1px solid #ddd;
+    text-align: center;
+}
+
+th {
+    background-color: #f4f4f4;
+}
+
+.income {
+    color: green;
+    font-weight: bold;
+}
+
+.expense {
+    color: red;
+    font-weight: bold;
+}
+
+.btn {
+    background-color: #4CAF50; /* สีพื้นหลัง */
+    color: white; /* สีข้อความ */
+    padding: 10px 20px; /* ขนาดปุ่ม */
+    text-align: center; /* จัดข้อความให้อยู่กลาง */
+    display: inline-block; /* ให้แสดงในบรรทัดเดียว */
+    border-radius: 5px; /* ขอบมน */
+    text-decoration: none; /* เอาขีดเส้นใต้ */
+}
+
+.btn:hover {
+    background-color: #45a049; /* สีพื้นหลังเมื่อเลื่อนเมาส์ไป */
+}
